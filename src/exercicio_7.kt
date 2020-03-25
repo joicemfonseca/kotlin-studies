@@ -16,4 +16,6 @@ fun main() {
     } else {
         println("Valor inválido")
     }
+
+    println("Nova versão")
 }
