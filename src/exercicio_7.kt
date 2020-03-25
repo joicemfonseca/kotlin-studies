@@ -17,5 +17,5 @@ fun main() {
         println("Valor inválido")
     }
 
-    println("Nova versão")
+    println("Agora já é velha")
 }
