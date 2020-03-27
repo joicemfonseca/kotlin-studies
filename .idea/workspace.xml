@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4654625a-fb46-4edb-a169-cd43051057fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin-studies/DecrescenteKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin-studies/Exercicio_25_03Kt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin-studies/SomaKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decrescente.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio_25_03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/soma.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/kotlin-studies/SalariobrutoKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/salariobruto.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-studies/Exercicio_7Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-studies/Exercicio_7Kt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-studies/META-INF/kotlin-studies.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-studies/META-INF/kotlin-studies.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-studies/PagamentoKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-studies/PagamentoKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pagamento.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pagamento.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,33 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.PagamentoKt">
+  <component name="RunManager" selected="Kotlin.AnoKt">
+    <configuration name="AbcKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-studies" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AbcKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-studies" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AnoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DecrescenteKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-studies" />
       <option name="VM_PARAMETERS" />
@@ -64,19 +87,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="DecrescenteKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercicio_25_03Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-studies" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Exercicio_25_03Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,27 +105,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="SalariobrutoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-studies" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="SomaKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_03Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-studies" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_03Kt" />
+      <option name="MAIN_CLASS_NAME" value="SalariobrutoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AnoKt" />
+        <item itemvalue="Kotlin.AbcKt" />
+        <item itemvalue="Kotlin.SalariobrutoKt" />
         <item itemvalue="Kotlin.PagamentoKt" />
         <item itemvalue="Kotlin.DecrescenteKt" />
-        <item itemvalue="Kotlin.SomaKt" />
-        <item itemvalue="Kotlin.Exercicio_25_03Kt" />
-        <item itemvalue="Kotlin._03Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -166,26 +163,30 @@
       <screen x="43" y="24" width="1323" height="744" />
     </state>
     <state x="492" y="141" key="FileChooserDialogImpl/43.24.1323.744@43.24.1323.744" timestamp="1585096970041" />
-    <state width="1277" height="193" key="GridCell.Tab.0.bottom" timestamp="1585155959903">
+    <state width="1277" height="193" key="GridCell.Tab.0.bottom" timestamp="1585269226387">
       <screen x="43" y="24" width="1323" height="744" />
     </state>
-    <state width="1277" height="193" key="GridCell.Tab.0.bottom/43.24.1323.744@43.24.1323.744" timestamp="1585155959903" />
-    <state width="1277" height="193" key="GridCell.Tab.0.center" timestamp="1585155959901">
+    <state width="1277" height="193" key="GridCell.Tab.0.bottom/43.24.1323.744@43.24.1323.744" timestamp="1585269226387" />
+    <state width="1277" height="193" key="GridCell.Tab.0.center" timestamp="1585269226386">
       <screen x="43" y="24" width="1323" height="744" />
     </state>
-    <state width="1277" height="193" key="GridCell.Tab.0.center/43.24.1323.744@43.24.1323.744" timestamp="1585155959901" />
-    <state width="1277" height="193" key="GridCell.Tab.0.left" timestamp="1585155959900">
+    <state width="1277" height="193" key="GridCell.Tab.0.center/43.24.1323.744@43.24.1323.744" timestamp="1585269226386" />
+    <state width="1277" height="193" key="GridCell.Tab.0.left" timestamp="1585269226386">
       <screen x="43" y="24" width="1323" height="744" />
     </state>
-    <state width="1277" height="193" key="GridCell.Tab.0.left/43.24.1323.744@43.24.1323.744" timestamp="1585155959900" />
-    <state width="1277" height="193" key="GridCell.Tab.0.right" timestamp="1585155959902">
+    <state width="1277" height="193" key="GridCell.Tab.0.left/43.24.1323.744@43.24.1323.744" timestamp="1585269226386" />
+    <state width="1277" height="193" key="GridCell.Tab.0.right" timestamp="1585269226386">
       <screen x="43" y="24" width="1323" height="744" />
     </state>
-    <state width="1277" height="193" key="GridCell.Tab.0.right/43.24.1323.744@43.24.1323.744" timestamp="1585155959902" />
+    <state width="1277" height="193" key="GridCell.Tab.0.right/43.24.1323.744@43.24.1323.744" timestamp="1585269226386" />
     <state x="367" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585146422943">
       <screen x="43" y="24" width="1323" height="744" />
     </state>
     <state x="367" y="225" key="com.intellij.ide.util.TipDialog/43.24.1323.744@43.24.1323.744" timestamp="1585146422943" />
+    <state x="367" y="168" key="run.anything.popup" timestamp="1585161180648">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state x="367" y="168" key="run.anything.popup/43.24.1323.744@43.24.1323.744" timestamp="1585161180648" />
     <state x="367" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585154374077">
       <screen x="43" y="24" width="1323" height="744" />
     </state>
