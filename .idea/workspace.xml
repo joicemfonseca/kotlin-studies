@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4654625a-fb46-4edb-a169-cd43051057fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin-studies/SalariobrutoKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/salariobruto.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-studies/META-INF/kotlin-studies.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-studies/META-INF/kotlin-studies.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-studies/PagamentoKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-studies/PagamentoKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pagamento.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pagamento.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.AnoKt">
+  <component name="RunManager" selected="Kotlin.GasolinaKt">
     <configuration name="AbcKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-studies" />
       <option name="VM_PARAMETERS" />
@@ -79,40 +75,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecrescenteKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="CentenaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-studies" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="DecrescenteKt" />
+      <option name="MAIN_CLASS_NAME" value="CentenaKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PagamentoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="GasolinaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-studies" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="PagamentoKt" />
+      <option name="MAIN_CLASS_NAME" value="GasolinaKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalariobrutoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ParKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-studies" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="SalariobrutoKt" />
+      <option name="MAIN_CLASS_NAME" value="ParKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.GasolinaKt" />
+        <item itemvalue="Kotlin.CentenaKt" />
+        <item itemvalue="Kotlin.ParKt" />
         <item itemvalue="Kotlin.AnoKt" />
         <item itemvalue="Kotlin.AbcKt" />
-        <item itemvalue="Kotlin.SalariobrutoKt" />
-        <item itemvalue="Kotlin.PagamentoKt" />
-        <item itemvalue="Kotlin.DecrescenteKt" />
       </list>
     </recent_temporary>
   </component>
@@ -159,26 +155,46 @@
       <screen x="43" y="24" width="1323" height="744" />
     </state>
     <state x="304" y="44" key="#Project_Structure/43.24.1323.744@43.24.1323.744" timestamp="1585009077380" />
+    <state x="467" y="128" key="#xdebugger.evaluate" timestamp="1585272722933">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state x="467" y="128" key="#xdebugger.evaluate/43.24.1323.744@43.24.1323.744" timestamp="1585272722933" />
     <state x="492" y="141" key="FileChooserDialogImpl" timestamp="1585096970041">
       <screen x="43" y="24" width="1323" height="744" />
     </state>
     <state x="492" y="141" key="FileChooserDialogImpl/43.24.1323.744@43.24.1323.744" timestamp="1585096970041" />
-    <state width="1277" height="193" key="GridCell.Tab.0.bottom" timestamp="1585269226387">
+    <state width="1277" height="240" key="GridCell.Tab.0.bottom" timestamp="1585272700683">
       <screen x="43" y="24" width="1323" height="744" />
     </state>
-    <state width="1277" height="193" key="GridCell.Tab.0.bottom/43.24.1323.744@43.24.1323.744" timestamp="1585269226387" />
-    <state width="1277" height="193" key="GridCell.Tab.0.center" timestamp="1585269226386">
+    <state width="1277" height="240" key="GridCell.Tab.0.bottom/43.24.1323.744@43.24.1323.744" timestamp="1585272700683" />
+    <state width="1277" height="240" key="GridCell.Tab.0.center" timestamp="1585272700682">
       <screen x="43" y="24" width="1323" height="744" />
     </state>
-    <state width="1277" height="193" key="GridCell.Tab.0.center/43.24.1323.744@43.24.1323.744" timestamp="1585269226386" />
-    <state width="1277" height="193" key="GridCell.Tab.0.left" timestamp="1585269226386">
+    <state width="1277" height="240" key="GridCell.Tab.0.center/43.24.1323.744@43.24.1323.744" timestamp="1585272700682" />
+    <state width="1277" height="240" key="GridCell.Tab.0.left" timestamp="1585272700682">
       <screen x="43" y="24" width="1323" height="744" />
     </state>
-    <state width="1277" height="193" key="GridCell.Tab.0.left/43.24.1323.744@43.24.1323.744" timestamp="1585269226386" />
-    <state width="1277" height="193" key="GridCell.Tab.0.right" timestamp="1585269226386">
+    <state width="1277" height="240" key="GridCell.Tab.0.left/43.24.1323.744@43.24.1323.744" timestamp="1585272700682" />
+    <state width="1277" height="240" key="GridCell.Tab.0.right" timestamp="1585272700683">
       <screen x="43" y="24" width="1323" height="744" />
     </state>
-    <state width="1277" height="193" key="GridCell.Tab.0.right/43.24.1323.744@43.24.1323.744" timestamp="1585269226386" />
+    <state width="1277" height="240" key="GridCell.Tab.0.right/43.24.1323.744@43.24.1323.744" timestamp="1585272700683" />
+    <state width="1277" height="240" key="GridCell.Tab.1.bottom" timestamp="1585272703606">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state width="1277" height="240" key="GridCell.Tab.1.bottom/43.24.1323.744@43.24.1323.744" timestamp="1585272703606" />
+    <state width="1277" height="240" key="GridCell.Tab.1.center" timestamp="1585272703605">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state width="1277" height="240" key="GridCell.Tab.1.center/43.24.1323.744@43.24.1323.744" timestamp="1585272703605" />
+    <state width="1277" height="240" key="GridCell.Tab.1.left" timestamp="1585272703604">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state width="1277" height="240" key="GridCell.Tab.1.left/43.24.1323.744@43.24.1323.744" timestamp="1585272703604" />
+    <state width="1277" height="240" key="GridCell.Tab.1.right" timestamp="1585272703605">
+      <screen x="43" y="24" width="1323" height="744" />
+    </state>
+    <state width="1277" height="240" key="GridCell.Tab.1.right/43.24.1323.744@43.24.1323.744" timestamp="1585272703605" />
     <state x="367" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585146422943">
       <screen x="43" y="24" width="1323" height="744" />
     </state>
